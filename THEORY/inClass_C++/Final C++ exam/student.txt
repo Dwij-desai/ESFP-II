@@ -1,0 +1,62 @@
+Student ID: 123
+Student Name: Johny dip
+Course: Computer Science
+Branch: CSE
+Semester: 3
+Course Fee: 2500
+--------------------------
+Student ID: 6422184
+Student Name: ender
+Course: de
+Branch: CSE
+Semester: 4
+Course Fee: 30002
+--------------------------
+Student Name: dwij
+Course: CS
+Branch: BDA
+Semester: 2
+Course Fee: 0
+--------------------------
+Student ID: 234
+Student Name: wdij
+Course: hk
+Branch: ij
+Semester: 4
+Course Fee: 234
+--------------------------
+Student ID: 2312
+Student Name: dwij
+Course: yadf
+Branch: steh
+Semester: 4
+Course Fee: 234786
+--------------------------
+Student ID: 1324
+Student Name: fdawf
+Course: sff
+Branch: sdf
+Semester: 2
+Course Fee: 345
+--------------------------
+Student ID: 22334
+Student Name: fsg
+Course: sfg
+Branch: shgt
+Semester: 5
+Course Fee: 325625
+--------------------------
+Student ID: 23
+Student Name: fgsdgdf
+Course: sfger
+Branch: rg
+Semester: 4
+Course Fee: 4522
+--------------------------
+Student ID: 3466
+Student Name: sergrf
+Course: rseger
+Branch: segt
+Semester: 43
+Course Fee: 563
+--------------------------
