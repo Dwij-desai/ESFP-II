@@ -1,0 +1,26 @@
+Do you want to modify / update records (Y/N)?y
+how do you want to modify record by id or by name:
+press<1> for by id and press<2> for by name ? 1
+Enter student id:104
+104 Vicky 15th VI DataSciene 1200
+Enter rno, name, std, sem, subject and fee:
+1001 Kriti 15th VI AI 1000
+Record Updated successfully
+101 Sumit 13th II Math 500
+102 Prince 14th IV Java 1000
+103 Krupal 14th IV Angular 700
+1001 Kriti 15th VI AI 1000
+105 Mayur 13th II ESFP 1200
+Do you want to delete (Y/N)?y
+how do you want to delete record by id or by name:
+press<1> for by id and press<2> for by name ? 1
+Enter student id:103
+103 Krupal 14th IV Angular 700
+Record deleted successfully
+101 Sumit 13th II Math 500
+102 Prince 14th IV Java 1000
+1001 Kriti 15th VI AI 1000
+105 Mayur 13th II ESFP 1200
+Find the student record by name:
+Enter student name:Prince
+102 Prince 14th IV Java 1000
