@@ -1,0 +1,10 @@
+Total user data:-
+Age  Name  Address  Email
+
+
+Course Info:
+Selected Course: Business
+Course Level: 2-5 weeks (intermediate)
+Preferred Way of Learning: Notes and concept learning
+Duration for Each Day: 6 hours
+---------------------------------------
