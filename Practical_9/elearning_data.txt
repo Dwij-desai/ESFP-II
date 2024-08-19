@@ -1,0 +1,40 @@
+Total user data:-
+Age  Name  Address  Email
+
+
+Course Info:
+Selected Course: Computer course
+Course Level: 1-2 weeks (basic)
+Preferred Way of Learning: Notes and concept learning
+Duration for Each Day: 4 hours
+---------------------------------------
+Total user data:-
+Age  Name  Address  Email
+
+
+Course Info:
+Selected Course: Computer course
+Course Level: 1-2 weeks (basic)
+Preferred Way of Learning: Guided project
+Duration for Each Day: 2 hours
+---------------------------------------
+Total user data:-
+Age  Name  Address  Email
+
+
+Course Info:
+Selected Course: Data science
+Course Level: 1-2 weeks (basic)
+Preferred Way of Learning: Guided project
+Duration for Each Day: 2 hours
+---------------------------------------
+Total user data:-
+Age  Name  Address  Email
+
+
+Course Info:
+Selected Course: Data science
+Course Level: 1-2 weeks (basic)
+Preferred Way of Learning: Notes and concept learning
+Duration for Each Day: 
+---------------------------------------

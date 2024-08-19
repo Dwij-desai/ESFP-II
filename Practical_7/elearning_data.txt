@@ -1,0 +1,15 @@
+Selected Course: Computer course
+Course Level: 1-2 weeks (basic)
+Preferred Way of Learning: Notes and concept learning
+Duration for Each Day: 
+---------------------------------------
+Selected Course: Data science
+Course Level: 2-5 weeks (intermediate)
+Preferred Way of Learning: Notes and concept learning
+Duration for Each Day: 4 hours
+---------------------------------------
+Selected Course: Computer course
+Course Level: 2-5 weeks (intermediate)
+Preferred Way of Learning: Notes and concept learning
+Duration for Each Day: 2 hours
+---------------------------------------
